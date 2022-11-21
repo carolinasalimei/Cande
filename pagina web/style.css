@@ -62,7 +62,6 @@ button {
 
 img {
      width: 50%;
-
      height: 100vh;
 
 
@@ -81,9 +80,8 @@ li {
 }
 
 div {
-     width: 300px;
-
-     height: 200px;
-     background-image: url(../pagina\ web/.);
+     width: 500px;
+     height: 400px;
+     background-image: url(./imagenes/casamiento.jpg);
 
 }
